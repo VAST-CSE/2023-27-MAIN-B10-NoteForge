@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NoteForge: IDE settings
+.idea/
+
+# Local datasets
+dataset/
+
+# Trained model checkpoints
+*.pt
+*.pth
+
+# Local test audio (do not publish without checking permission)
+test_piano_audio.wav
+test_piano_audio.mp3
